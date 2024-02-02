@@ -11,7 +11,8 @@ This means if we make a launcher for ModLauncher, we can use Quilt Loader on Mod
 NeoForge itself contains patches, which make Quilt mods' mixins can't work well. So we create [ShearAPI](https://github.com/PillowMC/ShearAPI).
 
 ## Contribution guidelines
-You must sign off for [DCO](https://developercertificate.org/).
+You must sign off for [DCO](https://developercertificate.org/). You *must* [sign](https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification) your commit.
+For PillowMC, once your signed commits are merged into our repos, you sign off the commits. You can also use git commit --signoff.
 <!--
 
 **Here are some ideas to get you started:**
